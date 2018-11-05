@@ -52,3 +52,6 @@ this-song# liri-node-app
 
     Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.    
            
+![screenshot1](images/screenShot1.png)
+
+![screenshot2](images/screenShot2.png)
