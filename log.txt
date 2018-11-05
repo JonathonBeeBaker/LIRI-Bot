@@ -490,3 +490,52 @@ Song: The Sign
 
 ---------------------------------------------------
 
+
+---------------------------------------------------
+
+Artist: The Beatles
+Song: Yellow Submarine - Remastered 2009
+Album: Revolver (Remastered)
+
+---------------------------------------------------
+
+Preview: null
+
+---------------------------------------------------
+
+Artist: Chris Lake
+Album: Turn off the Lights (feat. Alexis Roberts)
+Preview: https://p.scdn.co/mp3-preview/8a17974e9e7b565996055f4c6d0d0f9d45aee429?cid=74aab017b39a4415b4ebd2f10250d05c
+
+---------------------------------------------------
+
+Song: Turn off the Lights (feat. Alexis Roberts)
+
+---------------------------------------------------
+
+Error occurred: TypeError: Cannot read property 'artists' of undefined
+Invalid Instruction
+
+---------------------------------------------------
+
+Title: Fight Club
+Rotten Tomatoes Rating: 79%
+Language: English
+Plot: An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.
+Actors: Edward Norton, Brad Pitt, Meat Loaf, Zach Grenier
+
+---------------------------------------------------
+
+Country: USA, Germany
+Release Year: 1999
+IMDB Rating: 8.8
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=74aab017b39a4415b4ebd2f10250d05c

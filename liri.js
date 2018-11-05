@@ -44,21 +44,21 @@ function bandsInTown(parameter){
 
 if (action === 'concert-this')
 {
-	var movieName="";
+	var bandName="";
 	for (var i = 3; i < process.argv.length; i++)
 	{
-		movieName+=process.argv[i];
+		bandName+=process.argv[i];
 	}
-	console.log(movieName);
+	console.log(bandName);
 }
 else
 {
-	movieName = parameter;
+	bandName = parameter;
 }
 
 
 
-var queryUrl = "https://rest.bandsintown.com/artists/"+movieName+"/events?app_id=codecademy";
+var queryUrl = "https://rest.bandsintown.com/artists/"+bandName+"/events?app_id=codingbootcamp";
 
 
 request(queryUrl, function(error, response, body) {
